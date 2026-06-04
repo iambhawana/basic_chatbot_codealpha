@@ -1,10 +1,5 @@
 print ("===== BASIC CHATBOT =====")
 
-# Basic Chatbot in Python
-
-print("Welcome to the Python ChatBot!")
-print("Type 'bye' to end the conversation.\n")
-
 while True:
     user_input = input("You: ").lower().strip()
 
